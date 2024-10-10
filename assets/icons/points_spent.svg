@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19293" data-name="Rectangle 19293" width="40" height="40" transform="translate(422 361)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15631" data-name="Mask Group 15631" transform="translate(-422 -361)" clip-path="url(#clip-path)">
+    <g id="Exp-4.-S" transform="translate(419.739 358.738)">
+      <g id="Group_17592" data-name="Group 17592">
+        <path id="Path_46224" data-name="Path 46224" d="M20.368,5.539a2.113,2.113,0,0,1,3.785,0l3.686,7.426,8.2,1.21a2.113,2.113,0,0,1,1.17,3.6l-5.924,5.8L32.67,31.75a2.113,2.113,0,0,1-3.062,2.225l-7.347-3.842-7.347,3.842a2.113,2.113,0,0,1-3.062-2.225l1.383-8.175-5.924-5.8a2.113,2.113,0,0,1,1.17-3.6l8.2-1.21Z" fill="#8e8e8e" fill-rule="evenodd"/>
+        <path id="Path_46225" data-name="Path 46225" d="M22.261,4.481a2.113,2.113,0,0,1,1.893,1.174l3.686,7.426,8.2,1.21a2.113,2.113,0,0,1,1.7,1.437l.012.037L22.261,20.759Z" fill="#a8a8a8" fill-rule="evenodd"/>
+        <path id="Path_46226" data-name="Path 46226" d="M22.261,20.759,6.768,15.765l.012-.037a2.113,2.113,0,0,1,1.7-1.437l8.2-1.21,3.686-7.426a2.113,2.113,0,0,1,1.893-1.174Z" fill="#a8a8a8" fill-rule="evenodd"/>
+        <path id="Path_46227" data-name="Path 46227" d="M31.841,33.771l-.059.044a2.128,2.128,0,0,1-2.221.162l-7.347-3.809-7.347,3.809a2.128,2.128,0,0,1-2.187-.138l9.534-13.08Z" fill="#a8a8a8" fill-rule="evenodd"/>
+        <g id="Group_17591" data-name="Group 17591">
+          <path id="Path_46228" data-name="Path 46228" d="M21.739,33.874V40.99a.522.522,0,1,0,1.043,0V33.874a.522.522,0,0,0-1.043,0Z" fill="#dcdcdc" fill-rule="evenodd"/>
+          <path id="Path_46229" data-name="Path 46229" d="M34.842,25.018l6.726,2.326a.522.522,0,1,0,.341-.986l-6.726-2.326a.522.522,0,0,0-.341.986Z" fill="#dcdcdc" fill-rule="evenodd"/>
+          <path id="Path_46230" data-name="Path 46230" d="M9.338,24.032,2.612,26.358a.522.522,0,1,0,.341.986l6.726-2.326a.522.522,0,0,0-.341-.986Z" fill="#dcdcdc" fill-rule="evenodd"/>
+          <path id="Path_46231" data-name="Path 46231" d="M31.157,9.69l4.034-5.863a.522.522,0,1,0-.86-.591L30.3,9.1a.522.522,0,0,0,.86.591Z" fill="#dcdcdc" fill-rule="evenodd"/>
+          <path id="Path_46232" data-name="Path 46232" d="M14.736,9.059,10.16,3.608a.522.522,0,1,0-.8.671L13.937,9.73a.522.522,0,0,0,.8-.671Z" fill="#dcdcdc" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

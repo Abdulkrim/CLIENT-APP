@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Oval" cx="24" cy="24" r="24" fill="#823e79" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_733" data-name="Rectangle 733" width="20" height="20" transform="translate(1272 130)" fill="#359757" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_14645" data-name="Group 14645" transform="translate(-1258 -114)">
+    <g id="Oval-2" data-name="Oval" transform="translate(1258 114)">
+      <g id="Oval-3" data-name="Oval" fill="#fff" stroke="#e9e9f0" stroke-width="1">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="23.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Mask_Group_187" data-name="Mask Group 187" transform="translate(0 -2)" clip-path="url(#clip-path-2)">
+      <g id="customer_1_" data-name="customer (1)" transform="translate(1272 130)">
+        <circle id="Ellipse_533" data-name="Ellipse 533" cx="3.398" cy="3.398" r="3.398" transform="translate(6.602 1.275)" fill="#359757"/>
+        <circle id="Ellipse_534" data-name="Ellipse 534" cx="2.148" cy="2.148" r="2.148" transform="translate(14.727 3.775)" fill="#359757"/>
+        <circle id="Ellipse_535" data-name="Ellipse 535" cx="2.148" cy="2.148" r="2.148" transform="translate(0.977 3.775)" fill="#359757"/>
+        <path id="Path_43050" data-name="Path 43050" d="M5.242,10a3.474,3.474,0,0,0-2.589-.6A2.647,2.647,0,0,0,0,12.036V16.3a1.148,1.148,0,0,0,1.149,1.145c2.735,0,2.406.049,2.406-.118C3.555,14.306,3.2,12.089,5.242,10Z" fill="#359757"/>
+        <path id="Path_43051" data-name="Path 43051" d="M10.93,9.415a5.8,5.8,0,0,0-4.473,1.059c-2.143,1.716-1.73,4.027-1.73,6.855A1.37,1.37,0,0,0,6.095,18.7c8.245,0,8.574.266,9.063-.817.16-.366.116-.25.116-3.753A4.736,4.736,0,0,0,10.93,9.415Z" fill="#359757"/>
+        <path id="Path_43052" data-name="Path 43052" d="M17.348,9.4a3.472,3.472,0,0,0-2.589.6c2.03,2.073,1.687,4.138,1.687,7.328,0,.169-.274.118,2.365.118A1.189,1.189,0,0,0,20,16.261V12.036A2.647,2.647,0,0,0,17.348,9.4Z" fill="#359757"/>
+      </g>
+    </g>
+  </g>
+</svg>

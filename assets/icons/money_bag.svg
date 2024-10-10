@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5791" data-name="Rectangle 5791" width="24" height="24" transform="translate(1012 136)" fill="#35c635" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15293" data-name="Mask Group 15293" transform="translate(-1012 -136)" clip-path="url(#clip-path)">
+    <path id="sack-dollar" d="M14.541,5.472A6.125,6.125,0,0,0,17,1V0H7V1A6.127,6.127,0,0,0,9.459,5.472C4.754,7.149,1,13.124,1,18a6.006,6.006,0,0,0,6,6H17a6.006,6.006,0,0,0,6-6C23,13.124,19.246,7.149,14.541,5.472ZM9.207,2H14.79a7.048,7.048,0,0,1-2.783,2.852A7.073,7.073,0,0,1,9.208,2ZM17,22H7a4,4,0,0,1-4-4C3,12.839,7.59,7.017,12,7.017S21,12.84,21,18A4,4,0,0,1,17,22Zm-7-9a.768.768,0,0,0,.644.76l3.042.507A2.762,2.762,0,0,1,16,17a3,3,0,0,1-3,3v1H11V20a3,3,0,0,1-3-3h2a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1,.768.768,0,0,0-.644-.76l-3.042-.507A2.762,2.762,0,0,1,8,13a3,3,0,0,1,3-3V9h2v1a3,3,0,0,1,3,3H14a1,1,0,0,0-1-1H11A1,1,0,0,0,10,13Z" transform="translate(1012 136)" fill="#35c635"/>
+  </g>
+</svg>

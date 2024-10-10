@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="down" width="20" height="20" fill="#a8a8a8"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_167" data-name="Mask Group 167" clip-path="url(#clip-path)">
+    <path id="down-chevron" d="M10.416,16.416a1.421,1.421,0,0,0,0,2.01l8.529,8.529a1.421,1.421,0,0,0,2.01,0l8.529-8.529a1.421,1.421,0,1,0-2.01-2.01L19.95,23.94l-7.524-7.524a1.421,1.421,0,0,0-2.01,0Z" transform="translate(-9.9 -11.734)" fill="#a8a8a8" fill-rule="evenodd"/>
+  </g>
+</svg>

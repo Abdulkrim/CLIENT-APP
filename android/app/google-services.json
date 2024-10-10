@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240938014180",
+    "project_id": "catalogak-3f7c0",
+    "storage_bucket": "catalogak-3f7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240938014180:android:01d3d4e4aa8da6664623f1",
+        "android_client_info": {
+          "package_name": "catalogak.client.ae.altkamul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Htn4cKG7Wc7No5CWkfzA3offCEega9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

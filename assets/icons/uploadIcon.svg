@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4903" data-name="Rectangle 4903" width="20" height="20" transform="translate(-0.437)" fill="#359757" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_173" data-name="Mask Group 173" transform="translate(0.437)" clip-path="url(#clip-path)">
+    <g id="cloud-computing_3_" data-name="cloud-computing (3)" transform="translate(-0.073 2.293)">
+      <g id="Group_14341" data-name="Group 14341">
+        <g id="Group_14340" data-name="Group 14340">
+          <path id="Path_42565" data-name="Path 42565" d="M16.36,7.687A6.749,6.749,0,0,0,3.083,8.84,3.681,3.681,0,0,0,3.7,16.154H6.764V14.927H3.7a2.454,2.454,0,0,1,0-4.908A.614.614,0,0,0,4.31,9.4,5.522,5.522,0,0,1,15.249,8.331a.614.614,0,0,0,.522.491,3.068,3.068,0,0,1-.417,6.1H12.9v1.227h2.454A4.295,4.295,0,0,0,16.36,7.687Z" transform="translate(0 -2.579)" fill="#359757"/>
+          <path id="Path_42566" data-name="Path 42566" d="M10.939,11.85,8.485,14.3l.865.865,1.411-1.405v5.884h1.227V13.764l1.405,1.405.865-.865L11.8,11.85A.614.614,0,0,0,10.939,11.85Z" transform="translate(-1.543 -4.233)" fill="#359757"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

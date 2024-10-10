@@ -1,0 +1,114 @@
+name: merchant_dashboard
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.3.0+67
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.2
+  injectable: ^2.1.2
+  get_it: ^7.6.0
+  dio: ^5.2.1+1
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  cached_network_image: ^3.3.0
+  image_picker: ^0.8.6
+  image_picker_web: ^3.0.0+1
+  syncfusion_flutter_charts: ^25.2.5
+  syncfusion_flutter_datepicker: ^25.2.5
+  syncfusion_flutter_datagrid: ^25.2.5
+  flutter_screenutil: ^5.6.0
+  flutter_svg: ^2.0.10+1
+  contextmenu: ^3.0.0
+  either_dart: ^0.3.0
+  json_serializable: ^6.7.0
+  json_annotation: ^4.8.1
+  mime_type: ^1.0.0
+  dropdown_search: ^5.0.6
+  lottie: ^2.3.2
+  dotted_border: ^2.0.0+3
+  flutter_dropzone: ^3.0.6
+  google_fonts: ^4.0.4
+  # flutter_barcode_scanner: ^2.0.0
+  permission_handler: ^10.4.3
+  #  mobile_scanner: ^5.2.3
+  mime: ^1.0.4
+  fl_chart: ^0.63.0
+  #  uni_links: ^0.5.1
+  firebase_core: ^2.32.0
+  firebase_analytics: ^10.10.7
+  #  firebase_core_desktop: ^1.0.2
+  #  firebase_dynamic_links: ^5.4.5
+  floating_action_bubble:
+    git:
+      url: https://github.com/marjandn/FloatingActionBubble.git
+      ref: dev
+  segmented_progress_bar: ^1.1.0
+  url_launcher: ^6.1.12
+  pushy_flutter: 2.0.18
+  file_picker: ^5.5.0
+  toastification: ^1.2.0
+  sentry_flutter: ^7.16.0
+  fast_cached_network_image: ^1.2.7
+  intl_utils: ^2.8.7
+  sentry_dio: ^7.20.2
+  pretty_qr_code: ^3.3.0
+  multi_dropdown: ^3.0.1
+  simple_time_range_picker: ^0.0.6
+  flutter_map: ^5.0.0
+  latlong2: ^0.9.1
+  mobile_scanner: ^5.2.3
+  open_file: ^3.5.5
+  universal_html: ^2.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.5
+  injectable_generator: ^2.1.6
+  curl_logger_dio_interceptor: ^1.0.0
+  logger: ^1.1.0
+  mockito: ^5.4.2
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icons/icon.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/icons/icon.png"
+    background_color: "#f27123"
+    theme_color: "#f27123"
+
+flutter_intl:
+  enabled: true
+  class_name: S
+  main_locale: en
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/logo/
+    - assets/images/bg/
+    - assets/icons/
+    - assets/anims/
